@@ -6,6 +6,10 @@ Variables in POOP lang are set with the turd keyword. Take this example:
 
 ```stringy turd name = "finn"```
 
+The syntax for variables goes as follows:
+
+```**type** turd **variable name**```
+
 POOP lang is a statically typed language. Here are the different types:
 
 the runny type is used for floating point numbers
