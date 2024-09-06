@@ -37,4 +37,13 @@ stringy turd name = "finn"
 butt.dump(name, toilet)
 ```
 
-The `butt.dump()` function has 2 arguments position 1 is what to be dumped to the output, and the second argument is where to dump it to, in this case the `toilet`
+The `butt.dump()` function has 2 arguments position 1 is what to be dumped to the output, and the second argument is where to dump it to, in this case the `toilet`.
+
+In the next example, we will take an input from the user and asign it to a `stringy turd` and `dump` it to the `toilet`.
+
+```
+eat butt
+eat mouth
+stringy turd name = mouth.swallow("What is your name?", mouth)
+butt.dump("Your name is" + name, toilet)
+```
