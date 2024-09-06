@@ -47,3 +47,17 @@ eat mouth
 stringy turd name = mouth.swallow("What is your name?", mouth)
 butt.dump("Your name is" + name, toilet)
 ```
+
+# Conditionals
+
+In POOP lang conditionals are using the `if` keyword, and returns with the `flush` keyword. here we will compare to `solid` type turds and if they are the same, `flush shit` , otherwise `flush fart`
+
+```
+solid turd num1 = 3
+solid turd num2 = 4
+if num1 == num2:
+  flush shit
+else:
+  flush fart
+```
+If run this programm would return fart as 3 != 4.
