@@ -12,12 +12,12 @@ The syntax for variables goes as follows:
 
 POOP lang is a statically typed language. Here are the different types:
 
-the `runny` type is used for floating point numbers
+The `runny` type is used for floating point numbers
 
-the `chunky` type is used for integers
+The `chunky` type is used for integers
 
-the `stringy` type is used for string literals
+The `stringy` type is used for string literals
 
-the boolean types are represented by the `shart` keyword. True is represented by `shit` and false with `fart`
+The boolean types are represented by the `shart` keyword. True is represented by `shit` and false with `fart`
 
-lists are represented by the `diarrhea` keyword. `diarrhea` can only contain `turd`.
+Lists are represented by the `diarrhea` keyword. `diarrhea` can only contain `turd`.
