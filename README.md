@@ -8,7 +8,7 @@ Variables in POOP lang are set with the turd keyword. Take this example:
 
 The syntax for variables goes as follows:
 
-```_type_ turd _variable name_```
+<code>_type_ turd _variable name_</code>
 
 POOP lang is a statically typed language. Here are the different types:
 
