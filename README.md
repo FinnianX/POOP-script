@@ -60,4 +60,4 @@ if num1 == num2:
 else:
   flush fart
 ```
-If run this programm would return fart as 3 != 4.
+If run this programm would `flush fart` as 3 isnt equal 4.
